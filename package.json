@@ -1,0 +1,20 @@
+{
+  "name": "restaurant-backend",
+  "version": "1.0.0",
+  "description": "Restaurant Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Bernal",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^3.1.2",
+    "hapi": "^13.3.0",
+    "joi": "^8.0.5",
+    "lab": "^10.3.2",
+    "mongodb": "^2.1.18",
+    "mongorito": "^2.0.0",
+    "should": "^8.3.1"
+  }
+}
